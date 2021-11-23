@@ -1,0 +1,2 @@
+DOM manipulation e.g el.setAttribute(src/type,name)
+-> Element.setAttribute(name/class, value);
